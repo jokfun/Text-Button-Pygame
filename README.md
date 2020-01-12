@@ -72,5 +72,5 @@ Required parameters :
 
 ## AZERTY keyboard
 
-La touche pour le point sur le clavier correspond à la touche [: /]
+The key for the dot on the keyboard corresponds to the [: /] key.
 
