@@ -2,7 +2,7 @@
 
 Add a field to your application in which you can type a number and use it.
 
-![example](example.png)
+![example](example.PNG)
 
 ## Basic example
 
